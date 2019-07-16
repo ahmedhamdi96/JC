@@ -1,5 +1,5 @@
-# JC
-*Java Chat*
+# JCA
+*Java Chat Application*
 
 ## Project Overview
 *GUC, Winter 2016, CSEN503*
